@@ -1,0 +1,2 @@
+1.First downlode "package.json" file by using code "npm init -y".
+2.Downlode "npm i -g nodemon"
